@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /assets/css
+Disallow: /assets/ico
+Disallow: /assets/js
+Disallow: /assets/nivo
+Host: https://bitcoin-mixing-service.github.io
+Sitemap: https://bitcoin-mixing-service.github.io/sitemap.xml
